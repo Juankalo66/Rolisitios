@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <site-list version="1">
   <site url="https://importaciones.dian.gov.co/SIGLOXXI/comun/asp/comex.aspx">
-    <compat-mode>Default</compat-mode>
+    <compat-mode>IE11Enterprise</compat-mode>
     <open-in>IE11</open-in>
   </site>
 
   <site url="https://www.aprocom.com.co/aprocom/proEdiTrans/opSigloxxi.jsp">
-    <compat-mode>Default</compat-mode>
+    <compat-mode>IE11Enterprise</compat-mode>
     <open-in>IE11</open-in>
   </site>
 </site-list>
